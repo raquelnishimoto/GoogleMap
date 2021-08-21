@@ -1,0 +1,8 @@
+#modules
+node_modules
+
+#project
+dist
+
+#logs
+.cache
